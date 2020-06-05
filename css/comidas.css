@@ -1,0 +1,29 @@
+body{ background-color: grey;}
+
+
+h1{font-family: monospace;
+color: pink;
+font-size: 40px;}
+
+h2{font-family: serif;
+color: white;}
+
+h3{font-family: "times new roman";
+	font-size: 22px;
+	color: white;
+
+}
+
+h4{ font-variant: small-caps;
+	font-size: 30px;
+	color: white;
+
+}
+
+
+h6{font-size: 15px;
+	text-align: center;
+	color: black;
+
+
+}
